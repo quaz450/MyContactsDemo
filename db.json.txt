@@ -1,0 +1,15 @@
+{
+	"contacts":	[
+		{
+			"id":	1,
+			"image":	"",
+			"firstName": "Jessi"
+			"lastName": "Campbell"
+			"email": "campbell.jw@email.ca"
+			"phoneNumer":	"1-902-111-4567"
+		}
+	],
+	"profile": {
+		"name": "quaz450"
+	}
+}
