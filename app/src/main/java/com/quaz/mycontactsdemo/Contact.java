@@ -22,6 +22,10 @@ public class Contact {
         this.id = id;
     }
 
+    public int getId() {
+        return id;
+    }
+
     public String getImage() {
         return image;
     }
